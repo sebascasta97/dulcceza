@@ -1,0 +1,53 @@
+.contact-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    background-color: #1a171b;
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 50;
+    top: 0;
+}
+
+.iconos
+{
+    margin:20px 0px;
+    padding: 14px;
+    text-align: center;
+    border-top: 6px solid #3db7a8;
+    border-bottom: 6px solid #3db7a8;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tamIconos
+{
+    width: 42px;
+    height: 42px;
+    margin-right: 6px
+}
+
+.iconos-menu
+{
+
+    display: flex;
+    justify-content: center;
+    margin: 0 15px
+
+}
+
+.iconos-menu-item
+{
+    display: inline-flex;
+    justify-content: center;
+    align-items: baseline;
+    margin: 0 15px;
+}
+
+.letras
+{
+    margin: 0px;
+}
+
+
