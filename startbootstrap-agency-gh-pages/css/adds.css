@@ -17,6 +17,7 @@
     padding: 14px;
     text-align: center;
     border-top: 6px solid #3db7a8;
+    font-family: 'Sniglet', cursive;
     border-bottom: 6px solid #3db7a8;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -54,4 +55,5 @@
 {
     max-height: 573px;
 }
+
 
